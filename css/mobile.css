@@ -139,14 +139,11 @@ body{
     border-bottom: 1px dotted #283593;
 }
 
-#contact{
-    margin-bottom: 300px;
-}
-
 .fa-github{
     font-size: 30px;
 }
 
 .main-footer{
     text-align: center;
+    margin-top: 300px;
 }
