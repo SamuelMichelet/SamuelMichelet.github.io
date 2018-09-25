@@ -1,0 +1,27 @@
+body {
+    font-size: 16 px;
+}
+
+.main-content{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+}
+
+.box{
+    width: 600px;
+    margin-right: 20px;
+}
+
+#workflow-box{
+display: flex;
+justify-content: space-between;
+}
+
+#workflow-box .content-text{
+    margin: 0 10px;
+    padding-left: 10px;
+    border-left: 1px solid #283593;
+}
